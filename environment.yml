@@ -6,4 +6,5 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - jupyter notebook
+  - jupyter
+  - notebook
