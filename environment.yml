@@ -1,0 +1,9 @@
+name: api_demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyter notebook
